@@ -4,7 +4,6 @@
 
 Welcome to the **Cantilever** repository! 🚀 This repo contains two exciting projects that showcase my skills in **Java**, **JDBC**, **MySQL**, and **database management**. These projects are part of my **internship** journey and demonstrate how I solve real-world problems with technology.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Java Version](https://img.shields.io/badge/Java-%3E%3D%208-blue)](https://www.oracle.com/java/)
 
 ---
