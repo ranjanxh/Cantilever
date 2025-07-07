@@ -92,13 +92,19 @@ To get these projects up and running on your local machine, follow these steps:
 -   **Integrated Development Environment (IDE)**: An IDE like IntelliJ IDEA, Eclipse, or NetBeans is recommended for running Java programs, or you can use your terminal.
 -   **Optional**: Maven to manage project dependencies.
 
-### Clone the Repository:
-To clone this repository, use the following command:
-```bash
-git clone [https://github.com/yourusername/Cantilever.git](https://github.com/yourusername/Cantilever.git)
-Commit your changes (git commit -am 'Add new feature').
+### 🤝 Contributing
+Contributions are welcome! If you'd like to improve these projects, feel free to fork the repository, create a feature branch, and open a pull request.
 
-Push to the branch (git push origin feature-branch).
+Fork the repository.
+
+Create a new branch: git checkout -b feature-branch
+
+Make your changes.
+
+Commit your changes: git commit -am 'Add new feature'
+
+Push to the branch: git push origin feature-branch
 
 Open a pull request to the main branch.
+
 
